@@ -6,4 +6,4 @@ After downloading Repo, run `mv simple_react_bootstrap new_name` with your proje
 
 `cd` into the project directory and run `yarn` to install dependencies. 
 
-To run app, run ` yarn start`
+To run app, run ` yarn start` and app will run on localhost:3000.
