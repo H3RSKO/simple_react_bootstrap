@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import config from './config/site'
 
 class App extends Component {
   render() {
@@ -12,7 +11,7 @@ class App extends Component {
               <p>
                 Edit <code>src/App.js</code> and save to reload.
               </p>
-                Learn React (and bootstrap), Simplified {config.test}
+                Learn React (and bootstrap), Simplified
             </header>
           </div>
         </div>
